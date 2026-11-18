@@ -1,6 +1,5 @@
 import { QuizQuestion, QuizAttempt, QuestionDifficulty } from '../types';
 import { evaluateQuestionAnswer } from './scoring';
-export { deriveAttemptDocId, validateSafeAttemptId } from './firestoreKeys';
 
 export interface AssessmentSubmissionItem {
   questionId: string;

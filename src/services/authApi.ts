@@ -1,5 +1,5 @@
 import { AuthUser, LoginCredentials, RegisterPayload, AuthResult, PasswordResetPayload } from '../types/auth';
-import { PasswordStrengthResult, evaluatePasswordEntropy } from '../utils/authUtils';
+import { evaluatePasswordEntropy, type PasswordStrengthResult } from '../utils/passwordStrength';
 
 export const AUTH_TOKEN_KEY = 'cyberaware_auth_token_v1';
 export const AUTH_USER_KEY = 'cyberaware_auth_user_v1';
