@@ -1,0 +1,103 @@
+{
+  "destinyivienagbor2005@gmail.com": {
+    "userId": "destinyivienagbor2005@gmail.com",
+    "seenQuestionIds": [
+      "seed_q_1",
+      "seed_q_2",
+      "q1",
+      "q2"
+    ],
+    "answeredQuestionIds": [
+      "seed_q_1",
+      "q1",
+      "q2"
+    ],
+    "answeredResults": {
+      "seed_q_1": {
+        "isCorrect": true,
+        "selectedOptions": [
+          1
+        ],
+        "timestamp": "2026-11-04T15:13:16.964Z"
+      }
+    },
+    "flaggedQuestionIds": []
+  },
+  "jordan.lee@cyberaware.edu": {
+    "userId": "jordan.lee@cyberaware.edu",
+    "seenQuestionIds": [],
+    "answeredQuestionIds": [],
+    "answeredResults": {},
+    "flaggedQuestionIds": []
+  },
+  "nathan.cross@cyberaware.edu": {
+    "userId": "nathan.cross@cyberaware.edu",
+    "seenQuestionIds": [],
+    "answeredQuestionIds": [],
+    "answeredResults": {},
+    "flaggedQuestionIds": []
+  },
+  "ratelimit_1794410825681_em81@cyberaware.edu": {
+    "userId": "ratelimit_1794410825681_em81@cyberaware.edu",
+    "seenQuestionIds": [],
+    "answeredQuestionIds": [],
+    "answeredResults": {},
+    "flaggedQuestionIds": []
+  },
+  "ratelimit_1794410858376_z7x4@cyberaware.edu": {
+    "userId": "ratelimit_1794410858376_z7x4@cyberaware.edu",
+    "seenQuestionIds": [],
+    "answeredQuestionIds": [],
+    "answeredResults": {},
+    "flaggedQuestionIds": []
+  },
+  "ratelimit_1794410864094_lujp@cyberaware.edu": {
+    "userId": "ratelimit_1794410864094_lujp@cyberaware.edu",
+    "seenQuestionIds": [],
+    "answeredQuestionIds": [],
+    "answeredResults": {},
+    "flaggedQuestionIds": []
+  },
+  "sec_test_learner_1794994877944_7vg9@cyberaware.edu": {
+    "userId": "sec_test_learner_1794994877944_7vg9@cyberaware.edu",
+    "seenQuestionIds": [],
+    "answeredQuestionIds": [],
+    "answeredResults": {},
+    "flaggedQuestionIds": []
+  },
+  "sec_test_learner_1794994888380_qvb4@cyberaware.edu": {
+    "userId": "sec_test_learner_1794994888380_qvb4@cyberaware.edu",
+    "seenQuestionIds": [],
+    "answeredQuestionIds": [],
+    "answeredResults": {},
+    "flaggedQuestionIds": []
+  },
+  "sec_test_learner_1794994899018_5tn0@cyberaware.edu": {
+    "userId": "sec_test_learner_1794994899018_5tn0@cyberaware.edu",
+    "seenQuestionIds": [],
+    "answeredQuestionIds": [],
+    "answeredResults": {},
+    "flaggedQuestionIds": []
+  },
+  "sec_test_learner_1794994919403_rq56@cyberaware.edu": {
+    "userId": "sec_test_learner_1794994919403_rq56@cyberaware.edu",
+    "seenQuestionIds": [],
+    "answeredQuestionIds": [],
+    "answeredResults": {},
+    "flaggedQuestionIds": []
+  },
+  "sec_test_learner_1794996045912_02oq@cyberaware.edu": {
+    "userId": "sec_test_learner_1794996045912_02oq@cyberaware.edu",
+    "seenQuestionIds": [],
+    "answeredQuestionIds": [],
+    "answeredResults": {},
+    "flaggedQuestionIds": []
+  },
+  "sec_test_learner_1794996271307_8864@cyberaware.edu": {
+    "userId": "sec_test_learner_1794996271307_8864@cyberaware.edu",
+    "seenQuestionIds": [],
+    "answeredQuestionIds": [],
+    "answeredResults": {},
+    "flaggedQuestionIds": []
+  }
+}

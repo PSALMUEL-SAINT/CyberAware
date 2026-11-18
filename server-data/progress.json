@@ -1,0 +1,260 @@
+{
+  "destinyivienagbor2005@gmail.com": {
+    "completedLessons": [
+      "phishing_101"
+    ],
+    "completedChecklists": {
+      "phishing_101": [
+        "chk_hover_links",
+        "chk_sender_domain"
+      ]
+    },
+    "quizAttempts": [
+      {
+        "id": "test_live_att_1793807125484",
+        "attemptId": "test_live_att_1793807125484",
+        "userId": "destinyivienagbor2005@gmail.com",
+        "mode": "exam",
+        "date": "Nov 4, 2026",
+        "timestamp": "2026-11-04T15:45:25.490Z",
+        "total": 2,
+        "totalQuestions": 2,
+        "score": 1,
+        "correctCount": 1,
+        "percentage": 50,
+        "difficulty": "beginner",
+        "categoryFilter": "all",
+        "topicBreakdown": {
+          "security_awareness_identity": {
+            "correct": 1,
+            "total": 2,
+            "percentage": 50
+          }
+        },
+        "questionsAttempted": [
+          "q1",
+          "q2"
+        ],
+        "userAnswers": {
+          "0": [
+            2
+          ],
+          "1": [
+            0
+          ]
+        },
+        "questionAnswers": {
+          "q1": [
+            2
+          ],
+          "q2": [
+            0
+          ]
+        },
+        "verifiedAnswers": [
+          {
+            "questionId": "q1",
+            "isCorrect": true,
+            "expectedOptions": [
+              2
+            ],
+            "selectedOptions": [
+              2
+            ]
+          },
+          {
+            "questionId": "q2",
+            "isCorrect": false,
+            "expectedOptions": [
+              1
+            ],
+            "selectedOptions": [
+              0
+            ]
+          }
+        ],
+        "verifiedAnswersMap": {
+          "q1": {
+            "isCorrect": true,
+            "expectedAnswers": [
+              2
+            ],
+            "selectedAnswers": [
+              2
+            ]
+          },
+          "q2": {
+            "isCorrect": false,
+            "expectedAnswers": [
+              1
+            ],
+            "selectedAnswers": [
+              0
+            ]
+          }
+        },
+        "timeTakenSeconds": 42,
+        "completionDuration": 42,
+        "verifiedByServer": true
+      },
+      {
+        "id": "demo_init_attempt",
+        "userId": "destinyivienagbor2005@gmail.com",
+        "mode": "practice",
+        "date": "Nov 2, 2026",
+        "timestamp": "2026-11-02T15:44:39.310Z",
+        "score": 8,
+        "total": 10,
+        "percentage": 80,
+        "difficulty": "mixed",
+        "categoryFilter": "all",
+        "topicBreakdown": {
+          "Phishing": {
+            "correct": 3,
+            "total": 3,
+            "percentage": 100
+          },
+          "Password Security": {
+            "correct": 2,
+            "total": 2,
+            "percentage": 100
+          },
+          "Multi-Factor Authentication": {
+            "correct": 1,
+            "total": 2,
+            "percentage": 50
+          },
+          "Social Engineering": {
+            "correct": 1,
+            "total": 2,
+            "percentage": 50
+          },
+          "Safe Browsing": {
+            "correct": 1,
+            "total": 1,
+            "percentage": 100
+          }
+        },
+        "timeTakenSeconds": 245,
+        "completionDuration": 245,
+        "questionsAttempted": [
+          "sec_auth_01",
+          "sec_auth_02",
+          "sec_auth_03",
+          "sec_auth_04",
+          "net_sec_01"
+        ],
+        "verifiedByServer": true
+      }
+    ],
+    "solvedScenarios": [
+      "scenario_delivery_sms"
+    ],
+    "earnedBadges": [
+      "first_step",
+      "quiz_starter",
+      "quiz_high_scorer"
+    ],
+    "streakDays": 3,
+    "lastVisitDate": "2026-11-10"
+  },
+  "jordan.lee@cyberaware.edu": {
+    "completedLessons": [],
+    "completedChecklists": {},
+    "quizAttempts": [],
+    "solvedScenarios": [],
+    "earnedBadges": [],
+    "streakDays": 0,
+    "lastVisitDate": "2026-11-10"
+  },
+  "nathan.cross@cyberaware.edu": {
+    "completedLessons": [],
+    "completedChecklists": {},
+    "quizAttempts": [],
+    "solvedScenarios": [],
+    "earnedBadges": [],
+    "streakDays": 0,
+    "lastVisitDate": "2026-11-10"
+  },
+  "judge.security@codesprint.org": {
+    "completedLessons": [],
+    "completedChecklists": {},
+    "quizAttempts": [],
+    "solvedScenarios": [],
+    "earnedBadges": [],
+    "streakDays": 0,
+    "lastVisitDate": "2026-11-11"
+  },
+  "ratelimit_1794410825681_em81@cyberaware.edu": {
+    "completedLessons": [],
+    "completedChecklists": {},
+    "quizAttempts": [],
+    "solvedScenarios": [],
+    "earnedBadges": [],
+    "streakDays": 0,
+    "lastVisitDate": "2026-11-11"
+  },
+  "ratelimit_1794410858376_z7x4@cyberaware.edu": {
+    "completedLessons": [],
+    "completedChecklists": {},
+    "quizAttempts": [],
+    "solvedScenarios": [],
+    "earnedBadges": [],
+    "streakDays": 0,
+    "lastVisitDate": "2026-11-11"
+  },
+  "ratelimit_1794410864094_lujp@cyberaware.edu": {
+    "completedLessons": [],
+    "completedChecklists": {},
+    "quizAttempts": [],
+    "solvedScenarios": [],
+    "earnedBadges": [],
+    "streakDays": 0,
+    "lastVisitDate": "2026-11-11"
+  },
+  "sec_test_learner_1794994877944_7vg9@cyberaware.edu": {
+    "completedLessons": [],
+    "completedChecklists": {},
+    "quizAttempts": [],
+    "solvedScenarios": [],
+    "earnedBadges": [],
+    "streakDays": 0,
+    "lastVisitDate": "2026-11-18"
+  },
+  "sec_test_learner_1794994888380_qvb4@cyberaware.edu": {
+    "completedLessons": [],
+    "completedChecklists": {},
+    "quizAttempts": [],
+    "solvedScenarios": [],
+    "earnedBadges": [],
+    "streakDays": 0,
+    "lastVisitDate": "2026-11-18"
+  },
+  "sec_test_learner_1794994899018_5tn0@cyberaware.edu": {
+    "completedLessons": [],
+    "completedChecklists": {},
+    "quizAttempts": [],
+    "solvedScenarios": [],
+    "earnedBadges": [],
+    "streakDays": 0,
+    "lastVisitDate": "2026-11-18"
+  },
+  "sec_test_learner_1794996045912_02oq@cyberaware.edu": {
+    "completedLessons": [],
+    "completedChecklists": {},
+    "quizAttempts": [],
+    "solvedScenarios": [],
+    "earnedBadges": [],
+    "streakDays": 0,
+    "lastVisitDate": "2026-11-18"
+  },
+  "sec_test_learner_1794996271307_8864@cyberaware.edu": {
+    "completedLessons": [],
+    "completedChecklists": {},
+    "quizAttempts": [],
+    "solvedScenarios": [],
+    "earnedBadges": [],
+    "streakDays": 0,
+    "lastVisitDate": "2026-11-18"
+  }
+}

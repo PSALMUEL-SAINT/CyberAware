@@ -1,0 +1,12 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // CyberAware enforces all authentication, session validation, user isolation,
+    // group privacy, and RBAC exclusively inside the Express backend using ADC.
+    // Direct client SDK access to Firestore is strictly denied.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

@@ -1,0 +1,109 @@
+[
+  {
+    "id": "grp_1793808314789_psa3n",
+    "name": "Incident Response Blue Team",
+    "description": "Dedicated cohort for SOC analysts and incident handling practice.",
+    "creatorId": "destinyivienagbor2005@gmail.com",
+    "creatorName": "Destiny (Primary Learner)",
+    "inviteCode": "BXLTRC",
+    "createdAt": "Nov 4, 2026",
+    "memberCount": 1,
+    "members": [
+      {
+        "userId": "destinyivienagbor2005@gmail.com",
+        "userName": "Destiny (Primary Learner)",
+        "role": "admin",
+        "joinedAt": "Nov 4, 2026",
+        "participationStatus": "active"
+      }
+    ],
+    "isPublic": true
+  },
+  {
+    "id": "grp_1793808306189_nu11v",
+    "name": "Incident Response Blue Team",
+    "description": "Dedicated cohort for SOC analysts and incident handling practice.",
+    "creatorId": "destinyivienagbor2005@gmail.com",
+    "creatorName": "Destiny (Primary Learner)",
+    "inviteCode": "56HG9B",
+    "createdAt": "Nov 4, 2026",
+    "memberCount": 1,
+    "members": [
+      {
+        "userId": "destinyivienagbor2005@gmail.com",
+        "userName": "Destiny (Primary Learner)",
+        "role": "admin",
+        "joinedAt": "Nov 4, 2026",
+        "participationStatus": "active"
+      }
+    ],
+    "isPublic": true
+  },
+  {
+    "id": "grp_1793808301645_7gv8w",
+    "name": "Incident Response Blue Team",
+    "description": "Dedicated cohort for SOC analysts and incident handling practice.",
+    "creatorId": "destinyivienagbor2005@gmail.com",
+    "creatorName": "Destiny (Primary Learner)",
+    "inviteCode": "EKJWRG",
+    "createdAt": "Nov 4, 2026",
+    "memberCount": 1,
+    "members": [
+      {
+        "userId": "destinyivienagbor2005@gmail.com",
+        "userName": "Destiny (Primary Learner)",
+        "role": "admin",
+        "joinedAt": "Nov 4, 2026",
+        "participationStatus": "active"
+      }
+    ],
+    "isPublic": true
+  },
+  {
+    "id": "grp_alpha_defense",
+    "name": "Cyber Defense Squad Alpha",
+    "description": "Foundational cyber defence study group covering phishing analysis, network hygiene, and SOC incident triage.",
+    "creatorId": "destinyivienagbor2005@gmail.com",
+    "creatorName": "Destiny (Primary Learner)",
+    "inviteCode": "CYB101",
+    "createdAt": "Nov 1, 2026",
+    "memberCount": 2,
+    "isPublic": true,
+    "members": [
+      {
+        "userId": "destinyivienagbor2005@gmail.com",
+        "userName": "Destiny (Primary Learner)",
+        "role": "admin",
+        "joinedAt": "Nov 1, 2026",
+        "participationStatus": "completed_assessments"
+      },
+      {
+        "userId": "alex.student@cyberaware.edu",
+        "userName": "Alex Rivera (Peer Learner)",
+        "role": "member",
+        "joinedAt": "Nov 2, 2026",
+        "participationStatus": "active"
+      }
+    ]
+  },
+  {
+    "id": "grp_codesprint_guild",
+    "name": "CodeSprint Security Guild",
+    "description": "Official CodeSprint 2026 evaluation cohort focused on advanced threat detection, OWASP Top 10 web security, and cloud forensics.",
+    "creatorId": "judge.security@codesprint.org",
+    "creatorName": "CodeSprint Security Judge",
+    "inviteCode": "SPR920",
+    "createdAt": "Nov 3, 2026",
+    "memberCount": 1,
+    "isPublic": true,
+    "members": [
+      {
+        "userId": "judge.security@codesprint.org",
+        "userName": "CodeSprint Security Judge",
+        "role": "admin",
+        "joinedAt": "Nov 3, 2026",
+        "participationStatus": "active"
+      }
+    ]
+  }
+]
